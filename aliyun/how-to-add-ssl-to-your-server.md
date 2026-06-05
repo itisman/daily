@@ -25,7 +25,9 @@
 
 ## 替换证书
 在 SLB 的证书管理中，选择替换证书，选择新的证书即可完成替换
+购买证书的链接：https://yundun.console.aliyun.com/?spm=5176.2020520163.0.0.27aclryslrysPn&p=cas_buy&microFrontVersionName=newInstance#/testSSL/cn-hangzhou
 ![alt text](image-15.png)
+![alt text](image-17.png)
 在 CDN 中修改HTTPS证书
 ![alt text](image-16.png)
-
+![alt text](image-18.png)
